@@ -6,5 +6,5 @@ But hey, if you like minimalistic stuff you will like it!
 <div display="flex">
   <img width="700px" src="https://github.com/Luka-Kudra/KudraMedia/blob/main/design/Home%20page.png?raw=true" >
   <img width="700px" src="https://github.com/Luka-Kudra/KudraMedia/blob/main/design/Contacts%20page.png?raw=true" >
-<img width="700px" src="https://github.com/Luka-Kudra/KudraMedia/blob/main/design/Contacts%20page.png?raw=true" >
+<img width="700px" src="https://github.com/Luka-Kudra/KudraMedia/blob/main/design/Services%20page.png?raw=true" >
 </div>
