@@ -4,5 +4,7 @@ In the beginning I was really proud of myself but now looking at it its just a s
 But hey, if you like minimalistic stuff you will like it!
 
 <div display="flex">
+  <img width="700px" src="https://github.com/Luka-Kudra/KudraMedia/blob/main/design/Home%20page.png?raw=true" >
+  <img width="700px" src="https://github.com/Luka-Kudra/KudraMedia/blob/main/design/Contacts%20page.png?raw=true" >
 <img width="700px" src="https://github.com/Luka-Kudra/KudraMedia/blob/main/design/Contacts%20page.png?raw=true" >
 </div>
